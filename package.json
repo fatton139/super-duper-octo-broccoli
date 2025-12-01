@@ -10,7 +10,7 @@
     "@evilmartians/lefthook": "^2.0.4",
     "@tstv/eslint-config": "^4.0.0",
     "@tstv/tsconfig-common": "^3.7.1",
-    "@types/node": "^24.9.2",
+    "@types/node": "^24.10.1",
     "@vitest/coverage-v8": "^4.0.14",
     "cross-env": "^10.1.0",
     "eslint": "^9.39.1",
