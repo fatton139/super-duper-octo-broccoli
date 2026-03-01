@@ -13,7 +13,7 @@
     "@types/node": "^25.1.0",
     "@vitest/coverage-v8": "^4.0.18",
     "cross-env": "^10.1.0",
-    "eslint": "^9.39.2",
+    "eslint": "^10.0.2",
     "generate-changelog": "^1.8.0",
     "prettier": "^3.8.1",
     "rimraf": "^6.1.2",
